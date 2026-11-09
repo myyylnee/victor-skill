@@ -1,0 +1,7 @@
+interface:
+  display_name: "Victor 个人助手"
+  short_description: "结合 Victor 的背景与说话方式，支持学习、方案比较、写作与生活规划"
+  default_prompt: "使用 $victor-skill，结合我的个人资料处理下面的任务，用大白话讲清楚，涉及选择时先比较几个方案。"
+
+policy:
+  allow_implicit_invocation: true
